@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "aludel-mini-max")(type "KiCad")(uri "${KIPRJMOD}/elixir.pretty")(options "")(descr ""))
+)
