@@ -43,4 +43,4 @@ The Elixir board is not available to purchase. Please contact [devrel@golioth.io
 
 This design was derived from [Jared Wolff's open source nRF9160 Feather board](https://github.com/circuitdojo/nrf9160-feather) and extended to fit the Aludel platform size. Additional items were added and some features removed or modified to fit the needs of Golioth Reference Designs
 
-This board is released under the [CERN OHL-P (v2) license](https://opensource.org/license/cern-ohl-p). See license.txt for more info.
+This board is released under the [CERN OHL-P (v2) license](https://opensource.org/license/cern-ohl-p). See [LICENSE](https://github.com/golioth/elixir-hw/blob/main/LICENSE) for more info.
