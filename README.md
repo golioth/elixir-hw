@@ -45,7 +45,7 @@ The Elixir board is not available to purchase. Please contact [devrel@golioth.io
 
 [The Elixir is supported natively in the Reference Design Template](https://github.com/golioth/reference-design-template?tab=readme-ov-file#golioth-aludel-elixir). To use it in a build run the command:
 
-`west build -p -b aludel_elixir_ns app`
+`west build -p -b aludel_elixir/nrf9160/ns --sysbuild app`
 
 ## Hardware Lineage and License
 
