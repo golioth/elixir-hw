@@ -27,7 +27,7 @@ This is released as Revision C of the Elixir. Revisions A and B were internal-on
 * Multiple programming interfaces
   * 10 pin SWD (02x05 .127mm pitch), accessible from outside the case
   * 10 pin SWD Tag Connect (accessible from the top side of the board)
-  * USB using the serail bootloader / MCUBoot
+  * USB using the serial bootloader / MCUBoot
 
 ## The Aludel form factor
 
