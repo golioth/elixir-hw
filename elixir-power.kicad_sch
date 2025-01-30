@@ -6749,7 +6749,6 @@
 	)
 	(label "LMR_IN"
 		(at 88.9 97.155 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6760,7 +6759,6 @@
 	)
 	(label "BATT"
 		(at 528.32 79.375 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6771,7 +6769,6 @@
 	)
 	(label "5V_BOOST_SW"
 		(at 425.45 306.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6782,7 +6779,6 @@
 	)
 	(label "5V_BOOST_OUT"
 		(at 488.315 300.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6793,7 +6789,6 @@
 	)
 	(label "BATT"
 		(at 469.265 64.135 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6804,7 +6799,6 @@
 	)
 	(label "VIN_HI"
 		(at 38.1 97.155 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6815,7 +6809,6 @@
 	)
 	(label "LMR_SW"
 		(at 117.475 114.935 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6826,7 +6819,6 @@
 	)
 	(label "5V_BOOST_IN"
 		(at 404.495 300.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6837,7 +6829,6 @@
 	)
 	(label "HI_5V_OUT"
 		(at 163.195 114.935 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7636,7 +7627,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10U"
+		(property "Value" "2.2U"
 			(at 57.785 100.965 0)
 			(effects
 				(font
@@ -8075,7 +8066,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10U"
+		(property "Value" "2.2U"
 			(at 66.675 100.965 0)
 			(effects
 				(font
