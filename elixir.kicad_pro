@@ -602,11 +602,53 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Link1",
+          "name": "Link1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN1",
+          "name": "MPN1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Population",
+          "name": "Population",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Vendor1",
+          "name": "Vendor1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
