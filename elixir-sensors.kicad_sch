@@ -9398,7 +9398,6 @@
 	)
 	(label "C3_IO10"
 		(at 69.215 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9409,7 +9408,6 @@
 	)
 	(label "C3_IO2"
 		(at 69.215 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9420,7 +9418,6 @@
 	)
 	(label "C3_USB_P"
 		(at 129.54 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9431,7 +9428,6 @@
 	)
 	(label "C3_IO3"
 		(at 99.06 137.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9442,7 +9438,6 @@
 	)
 	(label "C3_IO7"
 		(at 69.215 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9453,7 +9448,6 @@
 	)
 	(label "C3_IO6"
 		(at 99.06 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9464,7 +9458,6 @@
 	)
 	(label "C3_IO0"
 		(at 69.215 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9475,7 +9468,6 @@
 	)
 	(label "C3_USB_N"
 		(at 59.055 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9486,7 +9478,6 @@
 	)
 	(label "ESP32-C3-RX-PROG"
 		(at 62.23 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9497,7 +9488,6 @@
 	)
 	(label "C3_IO5"
 		(at 76.835 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9508,7 +9498,6 @@
 	)
 	(label "C3_IO2"
 		(at 76.835 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9519,7 +9508,6 @@
 	)
 	(label "SWITCHED_PWR_I2C"
 		(at 333.375 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9530,7 +9518,6 @@
 	)
 	(label "C3_IO8"
 		(at 98.425 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9541,7 +9528,6 @@
 	)
 	(label "ESP32-C3-RX-PROG"
 		(at 59.055 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9552,7 +9538,6 @@
 	)
 	(label "C3_IO7"
 		(at 129.54 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9563,7 +9548,6 @@
 	)
 	(label "C3_USB_P"
 		(at 118.11 113.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9574,7 +9558,6 @@
 	)
 	(label "C3_IO10"
 		(at 129.54 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9585,7 +9568,6 @@
 	)
 	(label "ESP32-C3-TX-PROG"
 		(at 59.055 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9596,7 +9578,6 @@
 	)
 	(label "C3_IO1"
 		(at 99.06 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9607,7 +9588,6 @@
 	)
 	(label "BME280_3V3"
 		(at 71.12 200.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9618,7 +9598,6 @@
 	)
 	(label "SWITCHED_PWR_I2C"
 		(at 279.4 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9629,7 +9608,6 @@
 	)
 	(label "C3_IO0"
 		(at 76.835 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9640,7 +9618,6 @@
 	)
 	(label "C3_IO4"
 		(at 99.06 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9651,7 +9628,6 @@
 	)
 	(label "C3_IO3"
 		(at 76.835 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9662,7 +9638,6 @@
 	)
 	(label "C3_IO9"
 		(at 118.11 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9673,7 +9648,6 @@
 	)
 	(label "C3_USB_N"
 		(at 129.54 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9684,7 +9658,6 @@
 	)
 	(label "C3_IO6"
 		(at 76.835 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9695,7 +9668,6 @@
 	)
 	(label "C3_IO5"
 		(at 69.215 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9706,7 +9678,6 @@
 	)
 	(label "ESP32-C3-TX-PROG"
 		(at 62.23 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9717,7 +9688,6 @@
 	)
 	(label "C3_IO1"
 		(at 76.835 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9728,7 +9698,6 @@
 	)
 	(label "BME280_3V3"
 		(at 80.645 231.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9739,7 +9708,6 @@
 	)
 	(label "C3_IO9"
 		(at 167.005 52.705 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9750,7 +9718,6 @@
 	)
 	(label "SWITCHED_PWR_I2C"
 		(at 240.665 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9761,7 +9728,6 @@
 	)
 	(label "C3_IO4"
 		(at 76.835 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9772,7 +9738,6 @@
 	)
 	(label "C3_IO8"
 		(at 129.54 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18997,7 +18962,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ATECC608A-MAHDA"
+		(property "Value" "ATECC608C"
 			(at 191.77 160.02 0)
 			(effects
 				(font
@@ -19033,7 +18998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link1" "https://www.digikey.com/en/products/detail/microchip-technology/ATECC608A-MAHDA-S/7928113"
+		(property "Link1" "https://www.digikey.com/en/products/detail/microchip-technology/ATECC608C-MAHDA-T/21668937"
 			(at 198.12 158.75 0)
 			(effects
 				(font
@@ -19042,7 +19007,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN1" "ATECC608A-MAHDA-S"
+		(property "MPN1" "ATECC608C-MAHDA-T"
 			(at 198.12 158.75 0)
 			(effects
 				(font
